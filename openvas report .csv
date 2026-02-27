@@ -1,0 +1,17 @@
+192.168.230.131|cpe:/a:apache:http_server:2.2.8
+192.168.230.131|cpe:/a:beasts:vsftpd:2.3.4
+192.168.230.131|cpe:/a:isc:bind:9.4.2
+192.168.230.131|cpe:/a:jquery:jquery
+192.168.230.131|cpe:/a:mysql:mysql:5.0.51a
+192.168.230.131|cpe:/a:openbsd:openssh:4.7p1
+192.168.230.131|cpe:/a:php:php:5.2.4
+192.168.230.131|cpe:/a:phpmyadmin:phpmyadmin:3.1.1
+192.168.230.131|cpe:/a:postfix:postfix
+192.168.230.131|cpe:/a:postgresql:postgresql:8.3.1
+192.168.230.131|cpe:/a:proftpd:proftpd:1.3.1
+192.168.230.131|cpe:/a:samba:samba:3.0.20
+192.168.230.131|cpe:/a:tiki:tikiwiki_cms/groupware:1.9.5
+192.168.230.131|cpe:/a:twiki:twiki:01.Feb.2003
+192.168.230.131|cpe:/a:unrealircd:unrealircd:3.2.8.1
+192.168.230.131|cpe:/a:x.org:x11:11.0
+192.168.230.131|cpe:/o:canonical:ubuntu_linux:8.04
